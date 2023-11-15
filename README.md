@@ -1,1 +1,13 @@
-![alt text](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yfBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+#Day counter app
+
+#To add a new date, click on the '+' button
+
+#![demo1](https://i.imgur.com/lEoNmVn.png)
+
+#Give the date a name, select the date and click on the 'select' button to add a new date
+
+#![demo2](https://i.imgur.com/iynD9SZ.png)
+
+#Swipe left on a date that is no longer needed and click on the delete button to delete it
+
+#![demo3](https://i.imgur.com/DfyRaVk.png)
