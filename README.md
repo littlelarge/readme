@@ -2,7 +2,9 @@
 
 <img src="https://i.imgur.com/MHIa37m.png" width="188" height="354">
 
-1. To add a new date, click on the '+' button
+To add a new date:
+
+1. Click on the '+' button
 2. Give the date a name, select the date and click on the 'select' button to add a new date
 3. Swipe left on a date that is no longer needed and click on the delete button to delete it
 
