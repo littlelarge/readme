@@ -1,5 +1,7 @@
 # Day counter app
 
+~7-8 hours were spent on development
+
 <img src="https://i.imgur.com/MHIa37m.png" width="188" height="354">
 
 To add a new date:
@@ -9,3 +11,7 @@ To add a new date:
 3. Swipe left on a date that is no longer needed and click on the delete button to delete it
 
 <img src="https://i.imgur.com/lEoNmVn.png" width="188" height="354"> <img src="https://i.imgur.com/iynD9SZ.png" width="188" height="354"> <img src="https://i.imgur.com/DfyRaVk.png" width="188" height="354">
+
+Demo:
+
+<video src="https://i.imgur.com/uSJgq8C.mp4" width="188" height="354" autoplay loop>
