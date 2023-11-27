@@ -14,4 +14,4 @@ To add a new date:
 
 Demo:
 
-<img src="demo/timer_demo.gif" alt="Timer Demo" width="188" height="354">
+<img src="demo/timer_demo.gif" width="188" height="354">
