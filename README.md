@@ -14,4 +14,4 @@ To add a new date:
 
 Demo:
 
-https://i.imgur.com/uSJgq8C.mp4
+![](./demo/timer_demo.gif =188x354)
