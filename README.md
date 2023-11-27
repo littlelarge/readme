@@ -14,4 +14,4 @@ To add a new date:
 
 Demo:
 
-<video src="https://i.imgur.com/uSJgq8C.mp4" width="188" height="354" autoplay loop controls>
+https://i.imgur.com/uSJgq8C.mp4
